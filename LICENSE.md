@@ -1,4 +1,4 @@
-#  
+#  hooked automatic Scripts offers the most advanced hooked Script, with auto-farm and teleport. Perfect for dominating any match.
 
 
 
